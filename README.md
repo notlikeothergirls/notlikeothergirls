@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notlikeothergirls, a 20 year old programmer, Stat major and Math freak
-- 👀 I’m interested in learning Python and arts and cartoons!
+- 👀 I’m interested in learning Python and arts :3
 - 🌱 I’m currently learning Python, SQL, NoSQL, JavaScript and a bit of Haskell.
 - 📫 Follow my photography account on Instagram and lomography.com; blurryfacetrack3
 - I'm also on Club Penguin Rewritten as StarHanna312
